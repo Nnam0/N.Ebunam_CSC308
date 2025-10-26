@@ -1,0 +1,6 @@
+[package]
+name = "prac-1-task-3"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
